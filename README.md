@@ -1,3 +1,5 @@
+# GitHub and Git confilct
+
 # CSC4110-assignment1
 
 ## Oliver Rose
